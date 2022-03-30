@@ -2,6 +2,7 @@
 
 <!--
 **anuskkumar/anuskkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anusk's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuskkumar&show_icons=true&theme=dark)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuskkumar&hide=jupyter%20notebook&layout=compact&theme=dark&langs_count=8)](https://github.com/anuskkumar/github-readme-stats)
 
 Here are some ideas to get you started:
 
